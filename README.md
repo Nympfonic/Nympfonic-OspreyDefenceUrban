@@ -2,7 +2,7 @@
  A SP-Tarkov mod which adds a reskinned variant of an armour rig.
 
 ## Requirements
- - SPT-AKI 2.1.2 (but could possibly work on previous versions by changing the "akiVersion" line in package.json)
+ - SPT-AKI 2.2.0 (but could possibly work on previous versions by changing the "akiVersion" line in package.json)
 
 ## Installation
  - Download the latest [release](https://github.com/Nympfonic/Nympfonic-OspreyDefenceUrban/releases)
