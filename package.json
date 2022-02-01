@@ -1,0 +1,8 @@
+{
+    "name": "Osprey-Defence-Urban",
+    "author": "Nympfonic",
+    "version": "1.0.0",
+    "license": "NCSA",
+    "main": "mod.js",
+    "akiVersion": "2.1.2"
+}

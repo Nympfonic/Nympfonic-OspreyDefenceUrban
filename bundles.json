@@ -1,0 +1,13 @@
+{
+    "manifest": [
+        {
+            "key": "gear/osprey_defence_urban.bundle",
+            "dependencyKeys": [
+                "cubemaps",
+                "shaders",
+                "assets/commonassets/physics/physicsmaterials.bundle",
+                "assets/content/characters/character/tacticalvest/cr_commando_mesh"
+            ]
+        }
+    ]
+}

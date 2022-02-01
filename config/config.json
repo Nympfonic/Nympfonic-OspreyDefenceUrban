@@ -1,0 +1,24 @@
+{
+    "debug": {
+        "enabled": true,
+        "logging": false
+    },
+    "trader": {
+        "traderHelp": "Toggle trader flags here to add the item to each respective trader",
+        "jaeger": false,
+        "mechanic": false,
+        "peacekeeper": false,
+        "prapor": false,
+        "ragman": false,
+        "skier": false,
+        "therapist": false,
+        "gospozha": true
+    },
+    "traderSettings": {
+        "traderSettingsHelp": "Change values to how you see fit; each enabled trader will sell the item for the currency they usually use (Ragman = RUB, Peacekeeper = USD)",
+        "traderLoyaltyLevel": 3,
+        "traderEURPrice": 599,
+        "traderUSDPrice": 649,
+        "traderRUBPrice": 127439
+    }
+}
